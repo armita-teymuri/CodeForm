@@ -12,8 +12,8 @@ root = sys.path[0]
 files = ["Test1", "Test2", "Test3","Test4"]
 
 for f in files:
-    test_in = root + f"/sample/{f}.kt"
-    test_out = root + f"/sample/{f}.formed.kt"
+    test_in = root + f"/testcase/{f}.kt"
+    test_out = root + f"/testcase/{f}.formed.kt"
 
     # ----------------------------------------------------------------------------
 
