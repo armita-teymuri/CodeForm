@@ -3,9 +3,9 @@ Small formatter for **Kotlin** programming language
 
 
 ## Kotlin Testcases
-|Version   |Test1       |Test2       |Test3       |Test4       |
-|----------|------------|------------|------------|------------|
-|0.1.0     |![](_/c.png)|![](_/c.png)|![](_/u.png)|![](_/u.png)|
+|Version   |Test1       |Test2       |Test3       |Test4       |Test5       |
+|----------|------------|------------|------------|------------|------------|
+|0.1.0     |![](_/c.png)|![](_/c.png)|![](_/u.png)|![](_/u.png)|![](_/u.png)|
 
 
 ## Extensions
@@ -30,3 +30,4 @@ Small formatter for **Kotlin** programming language
 - ![](_/u.png) Deploy in marketplace
 - ![](_/u.png) Format code indentation
 - ![](_/u.png) Custom commands to customize formatter
+- ![](_/u.png) Setup unit tests in `tests` directory
