@@ -1,5 +1,4 @@
 /*--DONT-REFORMAT--*/
-// TASK: you should preserve space inside string but not inside comment
 fun main()
 {
 	// Comment
