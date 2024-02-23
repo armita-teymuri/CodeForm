@@ -1,6 +1,6 @@
 /*--DONT-REFORMAT--*/
 fun main()
 {
-	// Comment
-	print("hello")
-	}
+    // Comment
+    print("hello")
+    }
