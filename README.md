@@ -33,5 +33,6 @@ Small formatter for **Kotlin** programming language
 - ![](_/u.png) Setup unit tests in `tests` directory
 
 ## Rules for commits
-1. New Testcase: `Setup testcase no [NUMBER], [DESCIPTION]`
+1. New Testcase: `Setup testcase no [NUMBER], [DESCIPTION]`, last one was 8
+1. Update Testcase: `Update testcase no [NUMBER], [DESCIPTION]`
 1. Update for Formatted Testcases: `Update formatted testcases [TRY_NUMBER]`
