@@ -18,8 +18,8 @@ Small formatter for **Kotlin** programming language
 - To setup extension project `yo code`
 
 ### Run extension
-- In vscode open `extension.js` and push `F5` and select `VS Code Extension Developement`
-- In new vscode window, hit `Ctrl + Shift + P` and search select `Open Code Formatter Kotlin`
+- In vscode open `extension.js` and push <kbd>F5</kbd> and select `VS Code Extension Developement`
+- In new vscode window, hit <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> and search select `Open Code Formatter Kotlin`
 
 ### Test extension
 - Install [Test Runner](https://marketplace.visualstudio.com/items?itemName=ms-vscode.extension-test-runner)
