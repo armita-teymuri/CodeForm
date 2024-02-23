@@ -3,9 +3,15 @@ Small formatter for **Kotlin** programming language
 
 
 ## Kotlin Testcases
-|Version   |Test1       |Test2       |Test3       |Test4       |Test5       |Test6       |
-|----------|------------|------------|------------|------------|------------|------------|
-|0.1.0     |![](_/c.png)|![](_/c.png)|![](_/u.png)|![](_/u.png)|![](_/u.png)|![](_/u.png)|
+|Testcase  |V 0.1.0     |
+|----------|------------|
+|Test1     |![](_/c.png)|
+|Test2     |![](_/c.png)|
+|Test3     |![](_/u.png)|
+|Test4     |![](_/u.png)|
+|Test5     |![](_/u.png)|
+|Test6     |![](_/u.png)|
+|Test7     |![](_/u.png)|
 
 
 ## Extensions
