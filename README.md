@@ -1,4 +1,4 @@
-# OpenFormatter
+# KTFormatter
 Code formatter/beautifier for **Kotlin** programming language
 
 
