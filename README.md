@@ -1,4 +1,4 @@
-# KTFormatter
+# CodeForm
 Code formatter/beautifier for **Kotlin** programming language
 
 
