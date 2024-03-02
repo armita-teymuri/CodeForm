@@ -1,5 +1,5 @@
 # OpenFormatter
-Small formatter for **Kotlin** programming language
+Code formatter/beautifier for **Kotlin** programming language
 
 
 ## Kotlin Testcases
