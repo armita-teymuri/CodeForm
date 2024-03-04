@@ -1,7 +1,7 @@
 # CodeForm
 Code formatter/beautifier for **Kotlin** programming language
 
-## Parts
+## Components
 ```mermaid
 flowchart LR
 
