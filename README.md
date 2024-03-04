@@ -1,6 +1,14 @@
 # CodeForm
 Code formatter/beautifier for **Kotlin** programming language
 
+## Parts
+```mermaid
+flowchart LR
+
+CF[CodeForm] --> B(Cleaner)
+CF[CodeForm] --> B(Formatter)
+```
+
 
 ## Kotlin Testcases
 |Testcase  |V 0.1.0     |
