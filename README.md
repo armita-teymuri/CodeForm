@@ -5,8 +5,8 @@ Code formatter/beautifier for **Kotlin** programming language
 ```mermaid
 flowchart LR
 
-CF[CodeForm] --> B(Cleaner)
-CF[CodeForm] --> B(Formatter)
+CF[CodeForm] --> | |C(Cleaner)
+CF[CodeForm] --> | |F(Formatter)
 ```
 
 
