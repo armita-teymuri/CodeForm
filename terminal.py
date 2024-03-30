@@ -9,11 +9,9 @@ from src.format import KotlinFormatter
 
 root = sys.path[0]
 
-files = ["Test1", "Test2", "Test3", "Test4", "Test5","Test6","Test7"]
-
-for f in files:
-    test_in = root + f"/testcase/{f}.kt"
-    test_out = root + f"/testcase/{f}.formatted.kt"
+for f in range(1,8):
+    test_in = root + f"/testcase/Test{f}.kt"
+    test_out = root + f"/testcase/Test{f}.formatted.kt"
 
     # ----------------------------------------------------------------------------
 
