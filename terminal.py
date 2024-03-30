@@ -9,7 +9,7 @@ from src.format import KotlinFormatter
 
 root = sys.path[0]
 
-for f in range(1,8):
+for f in range(1,9):
     test_in = root + f"/testcase/Test{f}.kt"
     test_out = root + f"/testcase/Test{f}.formatted.kt"
 
